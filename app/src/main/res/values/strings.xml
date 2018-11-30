@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Go Gas Driver</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Pesanan</string>
+    <string name="title_dashboard">Riwayat</string>
+    <string name="title_notifications">Profil</string>
+</resources>
